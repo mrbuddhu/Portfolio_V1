@@ -20,3 +20,8 @@
   box-shadow: 0 5px #000000;
   transform: translateY(4px);
 }
+
+ body {
+     background-color: black;
+     overflow-x : hidden;
+}
