@@ -5,7 +5,10 @@ Feel free to fork and contribute :)
 This potfolio websites uses folloeing technologies:
 
 |[HTML] (Hypertext Markup Language is the standard markup language for documents designed to be displayed in a web browser.)
-[CSS](Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media.)
+|[CSS](Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media.)
+|[Bootstrap](Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and JavaScript-based design templates for typography, forms, buttons, navigation and other interface components)
+
+
 
 
 
