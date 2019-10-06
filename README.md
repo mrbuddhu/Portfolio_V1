@@ -46,7 +46,7 @@ Happy Hacktober! If you are a beginner, and looking for your first contribution.
 ###### Then push to your local repository
 ##### ` git push origin new-branch `
 
-### 4	. Create Pull Request
+### 4. Create Pull Request
 
 ###### At this point, you are ready to make a pull request to the original repository.
 
