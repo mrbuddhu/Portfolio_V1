@@ -26,7 +26,7 @@ h6 {
   font-family: 'Saira Extra Condensed', serif;
   font-weight: 700;
   text-transform: uppercase;
-  color: red;
+  color: #96D9C6;
 }
 
 h1 {
@@ -70,6 +70,10 @@ h2 {
   text-transform: uppercase
 }
 
+.navbar-dark .navbar-nav .nav-link {
+  color: rgb(242, 61, 61);
+}
+
 @media (min-width:992px) {
   #sideNav {
     text-align: center;
@@ -89,7 +93,7 @@ h2 {
   #sideNav .navbar-brand .img-profile {
     max-width: 10rem;
     max-height: 10rem;
-    border: .5rem solid rgba(255, 255, 255, .2)
+    border: .5rem solid #ffe208;
   }
   #sideNav .navbar-collapse {
     display: flex;
@@ -137,7 +141,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #D82424!important
+  background-color: #96D9C6!important
 }
 
 .text-primary {
