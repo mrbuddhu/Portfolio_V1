@@ -10,8 +10,3 @@
   * stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media.)
 * [Bootstrap](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework))
   * free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and JavaScript-based design templates for typography, forms, buttons, navigation and other interface components)
-
-
-
-
-
