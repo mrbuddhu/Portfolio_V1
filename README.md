@@ -12,7 +12,7 @@
   * free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and JavaScript-based design templates for typography, forms, buttons, navigation and other interface components)
 
 # How to contribute to this project or Open Source ?
-Happy Hacktober! If you are a beginner, and looking for your first contribution. please follow these steps :-
+HHappy Hacktoberfest 2019! If you are a beginner, and looking for your first contribution. please follow these steps :-
 
 ## Note :
 ### Before contributing to this project plese read the ISSUE and then start to contribute for that issue.
