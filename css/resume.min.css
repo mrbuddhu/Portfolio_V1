@@ -190,6 +190,13 @@ body {
 
 
 /*Social buttons editing*/
+.icons-social a {
+	color: #FAFAFA;
+}
+
+.icons-social a svg path{
+	fill: #FAFAFA;
+}
 
 .icons-social i {
 	font-size: 3em;
