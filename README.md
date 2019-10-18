@@ -1,3 +1,11 @@
+![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg)
+
+# Hello Developers :wave:
+
+## Let's help you submit your first Pull Request!!!
+
+
+
 # This is portfolio website to showcase my introduction, skills and projects.
 
 ## Feel free to fork and contribute :)
