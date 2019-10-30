@@ -229,3 +229,49 @@ body {
   transform: rotateX(360deg);
   transition: transform .6s;
 }
+
+.fa-code:hover{
+	color: #000;
+  transition: 0.5s;
+}
+
+.fa-github:hover{
+	color: #000;
+  transition: 0.5s;
+}
+
+.fa-stack-overflow:hover{
+	color: #F48024;
+  transition: 0.5s;
+}
+
+.fa-linkedin:hover{
+	color: #0e76a8;
+  transition: 0.5s;
+}
+
+.fa-medium:hover{
+  color: #000;
+  opacity: 0.84;
+  transition: 0.5s;
+}
+
+.fa-quora:hover{
+	color: #b92b27;
+  transition: 0.5s;
+}
+
+.fa-twitter:hover{
+	color: #08a0e9;
+  transition: 0.5s;
+}
+
+.fa-instagram:hover{
+	color: #000;
+  transition: 0.5s;
+}
+
+.fa-facebook:hover{
+	color: #4267b2;
+  transition: 0.5s;
+}
