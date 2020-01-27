@@ -1,4 +1,13 @@
 ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg)
+[![Github Forks](https://img.shields.io/github/forks/mrbuddhu/Portfolio-1.svg?style=social)](https://github.com/mrbuddhu/Portfolio-1/network/members)
+[![Github Stars](https://img.shields.io/github/stars/mrbuddhu/Portfolio-1.svg?style=social)](https://github.com/mrbuddhu/Portfolio-1/stargazers)
+[![Contributors](https://img.shields.io/github/contributors/mrbuddhu/Portfolio-1.svg)]()
+[![Open Issues](https://img.shields.io/github/issues-raw/mrbuddhu/Portfolio-1.svg)](https://www.github.com/mrbuddhu/Portfolio-1/issues)
+[![GitHub last commit](https://img.shields.io/github/last-commit/mrbuddhu/Portfolio-1.svg)](https://github.com/mrbuddhu/Portfolio-1/commits/master)
+[![License](https://img.shields.io/github/license/rajat19/Hackerrank.svg)](https://github.com/mrbuddhu/Portfolio-1/blob/master/LICENSE)
+[![Languages count](https://img.shields.io/github/languages/count/mrbuddhu/Portfolio-1.svg)]()
+[![Top Language](https://img.shields.io/github/languages/top/mrbuddhu/Portfolio-1.svg)]()
+
 
 # Hello Developers :wave:
 
