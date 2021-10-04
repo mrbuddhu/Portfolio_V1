@@ -71,7 +71,7 @@ h2 {
 }
 
 .navbar-dark .navbar-nav .nav-link {
-  color: rgb(242, 61, 61);
+  color: rgb(131, 238, 117);
 }
 
 @media (min-width:992px) {
@@ -93,7 +93,7 @@ h2 {
   #sideNav .navbar-brand .img-profile {
     max-width: 10rem;
     max-height: 10rem;
-    border: .5rem solid #ffe208;
+    border: .25rem solid #08e2ff;
   }
   #sideNav .navbar-collapse {
     display: flex;
@@ -141,7 +141,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #96D9C6!important
+  background-color: #2d3131!important
 }
 
 .text-primary {
